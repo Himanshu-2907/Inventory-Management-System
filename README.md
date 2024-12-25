@@ -13,7 +13,7 @@ An Inventory Management System built with Django that allows users to manage sto
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Himanshu-2907/Inventory-Management-System.git)>
    ```
 2. Navigate to the project directory:
    ```bash
